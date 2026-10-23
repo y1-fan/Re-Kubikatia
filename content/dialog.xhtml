@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title data-l10n-id="kubikat-dialog-title">Re-Kubikatia</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" href="chrome://rekubikatia/content/dialog.css"/>
+	<link rel="localization" href="kubikat.ftl"/>
+	<script src="chrome://rekubikatia/content/dialog.js" defer="defer"></script>
+</head>
+<body>
+	<main id="kubikat-dialog">
+		<header>
+			<img class="logo" src="chrome://rekubikatia/content/icons/kubikat-icon.svg" alt=""/>
+			<div class="header-text">
+				<h1 data-l10n-id="kubikat-dialog-heading">Re-Kubikatia</h1>
+				<p class="muted" data-l10n-id="kubikat-dialog-intro">Import from Kubikat: paste a search-results URL, or one item link per line. This plugin uses the SRU interface only, one request at a time, and writes records straight into a new Zotero collection.</p>
+			</div>
+		</header>
+
+		<p class="notice" data-l10n-id="kubikat-notice">Rate limits: 1 request at a time · 10 seconds between requests · maximum 50 items per import. Do not run repeated large imports or try to bypass these limits. Please respect Kubikat's robots.txt and terms of use.</p>
+
+		<label class="field">
+			<span class="label" data-l10n-id="kubikat-source-label">Links</span>
+			<textarea id="source" rows="6" spellcheck="false" placeholder="https://www.kubikat.org/discovery/search?query=…" data-l10n-id="kubikat-source"></textarea>
+			<small id="parse-status" class="hint">Paste a Kubikat URL to begin.</small>
+		</label>
+
+		<div class="row">
+			<label class="field grow">
+				<span class="label" data-l10n-id="kubikat-collection-label">Collection name</span>
+				<input id="collection-name" type="text" spellcheck="false" placeholder="Leave empty to generate a name" data-l10n-id="kubikat-collection"/>
+			</label>
+			<label class="field max">
+				<span class="label" data-l10n-id="kubikat-max-label">Maximum items</span>
+				<input id="max" type="number" min="1" max="50" step="5" value="25"/>
+				<small class="hint" data-l10n-id="kubikat-max-hint">1–50 per import</small>
+			</label>
+		</div>
+
+		<div class="library-line">
+			<span class="label" data-l10n-id="kubikat-library-label">Target library:</span>
+			<strong id="library-name">My Library</strong>
+		</div>
+
+		<fieldset class="options">
+			<legend data-l10n-id="kubikat-options-label">Options</legend>
+			<label class="check">
+				<input id="tags" type="checkbox" checked="checked"/>
+				<span data-l10n-id="kubikat-option-tags">Write subject headings as tags</span>
+			</label>
+			<label class="check">
+				<input id="attachments" type="checkbox" checked="checked"/>
+				<span data-l10n-id="kubikat-option-attachments">Add full-text links as URL attachments</span>
+			</label>
+			<label class="check acknowledge">
+				<input id="acknowledge" type="checkbox"/>
+				<span data-l10n-id="kubikat-ack">I understand the rate limits and will use this only for personal, non-commercial purposes.</span>
+			</label>
+		</fieldset>
+
+		<section id="progress-box" class="progress-box" hidden="hidden">
+			<div class="progress-head">
+				<span id="progress-text"></span>
+				<span id="progress-count" class="muted"></span>
+			</div>
+			<progress id="progress" max="100" value="0"></progress>
+			<pre id="log" class="log" aria-live="polite"></pre>
+		</section>
+
+		<footer>
+			<button id="open-collection" type="button" hidden="hidden" data-l10n-id="kubikat-open-collection">Show collection</button>
+			<span class="spacer"></span>
+			<button id="cancel" type="button" data-l10n-id="kubikat-close">Close</button>
+			<button id="start" type="button" class="primary" disabled="disabled" data-l10n-id="kubikat-start">Start import</button>
+		</footer>
+	</main>
+</body>
+</html>

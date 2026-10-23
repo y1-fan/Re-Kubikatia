@@ -1,0 +1,926 @@
+{
+  "search_url": "https://www.kubikat.org/discovery/search?query=any,contains,Michelangelo,AND&tab=LibraryCatalog&search_scope=MyInstitution&sortby=date_d&vid=49MPG_KUBIKAT:VU1&mode=advanced&offset=0",
+  "records": [
+    {
+      "docid": "alma990003239662009152",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "books"
+          ],
+          "language": [
+            "ger"
+          ],
+          "title": [
+            "Michelangelo : Leben und Werk"
+          ],
+          "format": [
+            "<b></b>192 S. : überw. Ill."
+          ],
+          "identifier": [
+            "$$CISBN$$V3-7630-1982-0"
+          ],
+          "creationdate": [
+            "1989"
+          ],
+          "publisher": [
+            "Stuttgart [u.a.] : Belser"
+          ],
+          "mms": [
+            "990003239662009152"
+          ],
+          "contributor": [
+            "Lamarche-Vadel, Bernard $$Toth$$$$QLamarche-Vadel, Bernard",
+            "Michelangelo Buonarroti $$Toth$$$$QMichelangelo"
+          ],
+          "genre": [
+            "Bildband",
+            "Biografie"
+          ],
+          "unititle": [
+            "Michelangelo"
+          ],
+          "place": [
+            "Stuttgart u.a.]"
+          ],
+          "version": [
+            "0"
+          ],
+          "lds03": [
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/4123592-7\"> Kunstwerk</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/4046277-8\"> Plastik</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/4127900-1\"> Zeichnung</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/4033423-5\"> Künstler</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/4037220-0\"> Malerei</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/4002851-3\"> Architektur</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/4049450-0\"> Renaissance</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/12220834X\"> Lamarche-Vadel, Bernard 1949-2000</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/118582143\"> Michelangelo Buonarroti 1475-1564</a>"
+          ],
+          "lds20": [
+            "Michelangelo"
+          ],
+          "lds89": [
+            "3763019820"
+          ],
+          "lds97": [
+            "(DE-588)118582143",
+            "(DE-588)4002851-3",
+            "(DE-588)4033423-5",
+            "(DE-588)4037220-0",
+            "(DE-588)4046277-8",
+            "(DE-588)4049450-0",
+            "(DE-588)4123592-7",
+            "(DE-588)4127900-1"
+          ],
+          "subject": [
+            "Michelangelo, Buonarroti, 1475-1564",
+            "Kunstwerk",
+            "Plastik",
+            "Zeichnung",
+            "Künstler",
+            "Malerei",
+            "Architektur",
+            "Renaissance",
+            "Michelangelo Buonarroti 1475-1564"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "990003239662009152"
+          ],
+          "recordid": [
+            "alma990003239662009152"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "000323966-KUB01"
+          ],
+          "sourcesystem": [
+            "BVB"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "0.79989517"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDSubject": [
+            "118582143"
+          ],
+          "originatingSystemIDContributor": [
+            "12220834X",
+            "118582143"
+          ],
+          "aulast": [
+            "Lamarche-Vadel"
+          ],
+          "aufirst": [
+            "Bernard"
+          ],
+          "auinit": [
+            "B"
+          ],
+          "addau": [
+            "Lamarche-Vadel, Bernard",
+            "Michelangelo"
+          ],
+          "contributorfull": [
+            "$$NLamarche-Vadel, Bernard$$LLamarche-Vadel$$FBernard$$Rcontributor",
+            "$$NMichelangelo$$Rcontributor"
+          ],
+          "date": [
+            "1989"
+          ],
+          "isbn": [
+            "3763019820"
+          ],
+          "cop": [
+            "Stuttgart [u.a"
+          ],
+          "pub": [
+            "Belser"
+          ],
+          "oclcid": [
+            "(ocolc)440244151"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Michelangelo Leben und Werk"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Michelangelo Leben und Werk"
+          ],
+          "author": [
+            "Lamarche-Vadel, Bernard 1949-2000 Sonstige"
+          ],
+          "creationdate": [
+            "1989"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "marc_xml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><searchRetrieveResponse xmlns=\"http://www.loc.gov/zing/srw/\">\n  <version>1.2</version>\n  <numberOfRecords>1</numberOfRecords>\n  <records>\n    <record>\n      <recordSchema>marcxml</recordSchema>\n      <recordPacking>xml</recordPacking>\n      <recordData>\n        <record xmlns=\"http://www.loc.gov/MARC21/slim\">\n          <leader>02204nam a2200625zc 4500</leader>\n          <controlfield tag=\"001\">990003239662009152</controlfield>\n          <controlfield tag=\"005\">20250523041952.0</controlfield>\n          <controlfield tag=\"007\">t|</controlfield>\n          <controlfield tag=\"008\">930215s1989    xx a|||  |||| 00||| ger d</controlfield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"020\">\n            <subfield code=\"a\">3763019820</subfield>\n            <subfield code=\"9\">3-7630-1982-0</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"035\">\n            <subfield code=\"a\">BV021909858</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"035\">\n            <subfield code=\"a\">(OCoLC)440244151</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"035\">\n            <subfield code=\"a\">(DE-599)BVBBV021909858</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"035\">\n            <subfield code=\"a\">(DE-604)BV021909858</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"040\">\n            <subfield code=\"a\">DE-604</subfield>\n            <subfield code=\"b\">ger</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\" \" tag=\"041\">\n            <subfield code=\"a\">ger</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"049\">\n            <subfield code=\"a\">DE-706</subfield>\n            <subfield code=\"a\">DE-M347</subfield>\n            <subfield code=\"a\">DE-188</subfield>\n            <subfield code=\"a\">DE-Y3</subfield>\n            <subfield code=\"a\">DE-Y2</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"084\">\n            <subfield code=\"a\">LI 59405</subfield>\n            <subfield code=\"0\">(DE-625)96649:13210</subfield>\n            <subfield code=\"2\">rvk</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\" \" tag=\"130\">\n            <subfield code=\"a\">Michelangelo</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\"0\" tag=\"245\">\n            <subfield code=\"a\">Michelangelo</subfield>\n            <subfield code=\"b\">Leben und Werk</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\"1\" tag=\"264\">\n            <subfield code=\"a\">Stuttgart [u.a.]</subfield>\n            <subfield code=\"b\">Belser</subfield>\n            <subfield code=\"c\">1989</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"300\">\n            <subfield code=\"a\">192 S.</subfield>\n            <subfield code=\"b\">überw. Ill.</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"336\">\n            <subfield code=\"b\">txt</subfield>\n            <subfield code=\"2\">rdacontent</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"336\">\n            <subfield code=\"b\">sti</subfield>\n            <subfield code=\"2\">rdacontent</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"337\">\n            <subfield code=\"b\">n</subfield>\n            <subfield code=\"2\">rdamedia</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"338\">\n            <subfield code=\"b\">nc</subfield>\n            <subfield code=\"2\">rdacarrier</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"650\">\n            <subfield code=\"a\">Kunstwerk</subfield>\n            <subfield code=\"0\">(DE-588)4123592-7</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"650\">\n            <subfield code=\"a\">Plastik</subfield>\n            <subfield code=\"0\">(DE-588)4046277-8</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"650\">\n            <subfield code=\"a\">Zeichnung</subfield>\n            <subfield code=\"0\">(DE-588)4127900-1</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"650\">\n            <subfield code=\"a\">Künstler</subfield>\n            <subfield code=\"0\">(DE-588)4033423-5</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"650\">\n            <subfield code=\"a\">Malerei</subfield>\n            <subfield code=\"0\">(DE-588)4037220-0</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"650\">\n            <subfield code=\"a\">Architektur</subfield>\n            <subfield code=\"0\">(DE-588)4002851-3</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"650\">\n            <subfield code=\"a\">Renaissance</subfield>\n            <subfield code=\"0\">(DE-588)4049450-0</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"600\">\n            <subfield code=\"a\">Michelangelo</subfield>\n            <subfield code=\"c\">Buonarroti</subfield>\n            <subfield code=\"d\">1475-1564</subfield>\n            <subfield code=\"0\">(DE-588)118582143</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\"7\" tag=\"655\">\n            <subfield code=\"0\">(DE-588)4145395-5</subfield>\n            <subfield code=\"a\">Bildband</subfield>\n            <subfield code=\"2\">gnd-content</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\"7\" tag=\"655\">\n            <subfield code=\"0\">(DE-588)4006804-3</subfield>\n            <subfield code=\"a\">Biografie</subfield>\n            <subfield code=\"2\">gnd-content</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Michelangelo</subfield>\n            <subfield code=\"c\">Buonarroti</subfield>\n            <subfield code=\"d\">1475-1564</subfield>\n            <subfield code=\"0\">(DE-588)118582143</subfield>\n            <subfield code=\"D\">p</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">DE-604</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Architektur</subfield>\n            <subfield code=\"0\">(DE-588)4002851-3</subfield>\n            <subfield code=\"D\">s</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">DE-604</subfield>\n          </datafield>\n          <datafield ind1=\"2\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Künstler</subfield>\n            <subfield code=\"0\">(DE-588)4033423-5</subfield>\n            <subfield code=\"D\">s</subfield>\n          </datafield>\n          <datafield ind1=\"2\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">DE-604</subfield>\n          </datafield>\n          <datafield ind1=\"3\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Malerei</subfield>\n            <subfield code=\"0\">(DE-588)4037220-0</subfield>\n            <subfield code=\"D\">s</subfield>\n          </datafield>\n          <datafield ind1=\"3\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">DE-604</subfield>\n          </datafield>\n          <datafield ind1=\"4\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Plastik</subfield>\n            <subfield code=\"0\">(DE-588)4046277-8</subfield>\n            <subfield code=\"D\">s</subfield>\n          </datafield>\n          <datafield ind1=\"4\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">DE-604</subfield>\n          </datafield>\n          <datafield ind1=\"5\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Renaissance</subfield>\n            <subfield code=\"0\">(DE-588)4049450-0</subfield>\n            <subfield code=\"D\">s</subfield>\n          </datafield>\n          <datafield ind1=\"5\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">DE-604</subfield>\n          </datafield>\n          <datafield ind1=\"6\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Kunstwerk</subfield>\n            <subfield code=\"0\">(DE-588)4123592-7</subfield>\n            <subfield code=\"D\">s</subfield>\n          </datafield>\n          <datafield ind1=\"6\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">DE-604</subfield>\n          </datafield>\n          <datafield ind1=\"7\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Zeichnung</subfield>\n            <subfield code=\"0\">(DE-588)4127900-1</subfield>\n            <subfield code=\"D\">s</subfield>\n          </datafield>\n          <datafield ind1=\"7\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">DE-604</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\" \" tag=\"700\">\n            <subfield code=\"a\">Lamarche-Vadel, Bernard</subfield>\n            <subfield code=\"d\">1949-2000</subfield>\n            <subfield code=\"e\">Sonstige</subfield>\n            <subfield code=\"0\">(DE-588)12220834X</subfield>\n            <subfield code=\"4\">oth</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\" \" tag=\"700\">\n            <subfield code=\"a\">Michelangelo</subfield>\n            <subfield code=\"c\">Buonarroti</subfield>\n            <subfield code=\"d\">1475-1564</subfield>\n            <subfield code=\"e\">Sonstige</subfield>\n            <subfield code=\"0\">(DE-588)118582143</subfield>\n            <subfield code=\"4\">oth</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"984\">\n            <subfield code=\"a\">bd2160406r</subfield>\n            <subfield code=\"9\">LOCAL</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"AVA\">\n            <subfield code=\"0\">990003239662009152</subfield>\n            <subfield code=\"8\">22280198130009152</subfield>\n            <subfield code=\"a\">49MPG_KUBIKAT</subfield>\n            <subfield code=\"b\">KHI</subfield>\n            <subfield code=\"c\">Open stacks via Giusti</subfield>\n            <subfield code=\"d\">J 5668 o</subfield>\n            <subfield code=\"e\">available</subfield>\n            <subfield code=\"f\">1</subfield>\n            <subfield code=\"g\">0</subfield>\n            <subfield code=\"i\">KHI</subfield>\n            <subfield code=\"j\">BIB</subfield>\n            <subfield code=\"k\">8</subfield>\n            <subfield code=\"p\">1</subfield>\n            <subfield code=\"q\">Florence (KHI)</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"AVA\">\n            <subfield code=\"0\">990003239662009152</subfield>\n            <subfield code=\"8\">22280198110009152</subfield>\n            <subfield code=\"a\">49MPG_KUBIKAT</subfield>\n            <subfield code=\"b\">HERTZ</subfield>\n            <subfield code=\"c\">Open stacks</subfield>\n            <subfield code=\"d\">Ca-MIC 24-5860/a</subfield>\n            <subfield code=\"e\">available</subfield>\n            <subfield code=\"f\">1</subfield>\n            <subfield code=\"g\">0</subfield>\n            <subfield code=\"i\">HERTZ</subfield>\n            <subfield code=\"j\">BIB</subfield>\n            <subfield code=\"k\">8</subfield>\n            <subfield code=\"p\">2</subfield>\n            <subfield code=\"q\">Rome (BHR)</subfield>\n          </datafield>\n        </record>\n      </recordData>\n      <recordIdentifier>990003239662009152</recordIdentifier>\n      <recordPosition>1</recordPosition>\n    </record>\n  </records>\n  <extraResponseData xmlns:xb=\"http://www.exlibris.com/repository/search/xmlbeans/\">\n    <xb:exact>true</xb:exact>\n    <xb:responseDate>2026-10-23T03:29:44+0200</xb:responseDate>\n  </extraResponseData>\n</searchRetrieveResponse>",
+      "marc": {
+        "001": [
+          {
+            "_": "990003239662009152"
+          }
+        ],
+        "005": [
+          {
+            "_": "20250523041952.0"
+          }
+        ],
+        "007": [
+          {
+            "_": "t|"
+          }
+        ],
+        "008": [
+          {
+            "_": "930215s1989    xx a|||  |||| 00||| ger d"
+          }
+        ],
+        "020": [
+          {
+            "a": "3763019820",
+            "9": "3-7630-1982-0"
+          }
+        ],
+        "035": [
+          {
+            "a": "BV021909858"
+          },
+          {
+            "a": "(OCoLC)440244151"
+          },
+          {
+            "a": "(DE-599)BVBBV021909858"
+          },
+          {
+            "a": "(DE-604)BV021909858"
+          }
+        ],
+        "040": [
+          {
+            "a": "DE-604",
+            "b": "ger"
+          }
+        ],
+        "041": [
+          {
+            "a": "ger"
+          }
+        ],
+        "049": [
+          {
+            "a": "DE-706"
+          }
+        ],
+        "084": [
+          {
+            "a": "LI 59405",
+            "0": "(DE-625)96649:13210",
+            "2": "rvk"
+          }
+        ],
+        "130": [
+          {
+            "a": "Michelangelo"
+          }
+        ],
+        "245": [
+          {
+            "a": "Michelangelo",
+            "b": "Leben und Werk"
+          }
+        ],
+        "264": [
+          {
+            "a": "Stuttgart [u.a.]",
+            "b": "Belser",
+            "c": "1989"
+          }
+        ],
+        "300": [
+          {
+            "a": "192 S.",
+            "b": "überw. Ill."
+          }
+        ],
+        "336": [
+          {
+            "b": "txt",
+            "2": "rdacontent"
+          },
+          {
+            "b": "sti",
+            "2": "rdacontent"
+          }
+        ],
+        "337": [
+          {
+            "b": "n",
+            "2": "rdamedia"
+          }
+        ],
+        "338": [
+          {
+            "b": "nc",
+            "2": "rdacarrier"
+          }
+        ],
+        "650": [
+          {
+            "a": "Kunstwerk",
+            "0": "(DE-588)4123592-7",
+            "2": "gnd",
+            "9": "rswk-swf"
+          },
+          {
+            "a": "Plastik",
+            "0": "(DE-588)4046277-8",
+            "2": "gnd",
+            "9": "rswk-swf"
+          },
+          {
+            "a": "Zeichnung",
+            "0": "(DE-588)4127900-1",
+            "2": "gnd",
+            "9": "rswk-swf"
+          },
+          {
+            "a": "Künstler",
+            "0": "(DE-588)4033423-5",
+            "2": "gnd",
+            "9": "rswk-swf"
+          },
+          {
+            "a": "Malerei",
+            "0": "(DE-588)4037220-0",
+            "2": "gnd",
+            "9": "rswk-swf"
+          },
+          {
+            "a": "Architektur",
+            "0": "(DE-588)4002851-3",
+            "2": "gnd",
+            "9": "rswk-swf"
+          },
+          {
+            "a": "Renaissance",
+            "0": "(DE-588)4049450-0",
+            "2": "gnd",
+            "9": "rswk-swf"
+          }
+        ],
+        "600": [
+          {
+            "a": "Michelangelo",
+            "c": "Buonarroti",
+            "d": "1475-1564",
+            "0": "(DE-588)118582143",
+            "2": "gnd",
+            "9": "rswk-swf"
+          }
+        ],
+        "655": [
+          {
+            "0": "(DE-588)4145395-5",
+            "a": "Bildband",
+            "2": "gnd-content"
+          },
+          {
+            "0": "(DE-588)4006804-3",
+            "a": "Biografie",
+            "2": "gnd-content"
+          }
+        ],
+        "689": [
+          {
+            "a": "Michelangelo",
+            "c": "Buonarroti",
+            "d": "1475-1564",
+            "0": "(DE-588)118582143",
+            "D": "p"
+          },
+          {
+            "5": "DE-604"
+          },
+          {
+            "a": "Architektur",
+            "0": "(DE-588)4002851-3",
+            "D": "s"
+          },
+          {
+            "5": "DE-604"
+          },
+          {
+            "a": "Künstler",
+            "0": "(DE-588)4033423-5",
+            "D": "s"
+          },
+          {
+            "5": "DE-604"
+          },
+          {
+            "a": "Malerei",
+            "0": "(DE-588)4037220-0",
+            "D": "s"
+          },
+          {
+            "5": "DE-604"
+          },
+          {
+            "a": "Plastik",
+            "0": "(DE-588)4046277-8",
+            "D": "s"
+          },
+          {
+            "5": "DE-604"
+          },
+          {
+            "a": "Renaissance",
+            "0": "(DE-588)4049450-0",
+            "D": "s"
+          },
+          {
+            "5": "DE-604"
+          },
+          {
+            "a": "Kunstwerk",
+            "0": "(DE-588)4123592-7",
+            "D": "s"
+          },
+          {
+            "5": "DE-604"
+          },
+          {
+            "a": "Zeichnung",
+            "0": "(DE-588)4127900-1",
+            "D": "s"
+          },
+          {
+            "5": "DE-604"
+          }
+        ],
+        "700": [
+          {
+            "a": "Lamarche-Vadel, Bernard",
+            "d": "1949-2000",
+            "e": "Sonstige",
+            "0": "(DE-588)12220834X",
+            "4": "oth"
+          },
+          {
+            "a": "Michelangelo",
+            "c": "Buonarroti",
+            "d": "1475-1564",
+            "e": "Sonstige",
+            "0": "(DE-588)118582143",
+            "4": "oth"
+          }
+        ],
+        "984": [
+          {
+            "a": "bd2160406r",
+            "9": "LOCAL"
+          }
+        ],
+        "AVA": [
+          {
+            "0": "990003239662009152",
+            "8": "22280198130009152",
+            "a": "49MPG_KUBIKAT",
+            "b": "KHI",
+            "c": "Open stacks via Giusti",
+            "d": "J 5668 o",
+            "e": "available",
+            "f": "1",
+            "g": "0",
+            "i": "KHI",
+            "j": "BIB",
+            "k": "8",
+            "p": "1",
+            "q": "Florence (KHI)"
+          },
+          {
+            "0": "990003239662009152",
+            "8": "22280198110009152",
+            "a": "49MPG_KUBIKAT",
+            "b": "HERTZ",
+            "c": "Open stacks",
+            "d": "Ca-MIC 24-5860/a",
+            "e": "available",
+            "f": "1",
+            "g": "0",
+            "i": "HERTZ",
+            "j": "BIB",
+            "k": "8",
+            "p": "2",
+            "q": "Rome (BHR)"
+          }
+        ]
+      }
+    },
+    {
+      "docid": "alma990235370982009152",
+      "pnx": {
+        "display": {
+          "source": [
+            "Alma"
+          ],
+          "type": [
+            "books"
+          ],
+          "language": [
+            "ger"
+          ],
+          "title": [
+            "Michelangelo"
+          ],
+          "format": [
+            "<b></b>104 Seiten : Illustrationen"
+          ],
+          "creationdate": [
+            "1899"
+          ],
+          "creator": [
+            "Knackfuß, Hermann $$Taut$$$$QKnackfuß, Hermann"
+          ],
+          "publisher": [
+            "Bielefeld ; Leipzig : Verlag von Velhagen & Klasing"
+          ],
+          "mms": [
+            "990235370982009152"
+          ],
+          "contributor": [
+            "Michelangelo Buonarroti $$Till$$$$QMichelangelo"
+          ],
+          "edition": [
+            "Fünfte Auflage"
+          ],
+          "series": [
+            "Künstler-Monographien$$QKünstler-Monographien"
+          ],
+          "unititle": [
+            "Michelangelo (1899)"
+          ],
+          "includes": [
+            "Knackfuß, Hermann 1848-1915 Michelangelo (1899)$$QKnackfuß, Hermann 1848-1915 Michelangelo (1899)"
+          ],
+          "place": [
+            "Bielefeld ; Leipzig"
+          ],
+          "version": [
+            "0"
+          ],
+          "lds01": [
+            "von H. Knackfuß"
+          ],
+          "lds03": [
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/118563599\"> Knackfuß, Hermann 1848-1915</a>",
+            "<a target=\"_blank\" href=\"http://d-nb.info/gnd/118582143\"> Michelangelo Buonarroti 1475-1564</a>"
+          ],
+          "lds14": [
+            "Künstler-Monographien ; 4"
+          ],
+          "lds18": [
+            "Online-Ausgabe : Heidelberg : Universitätsbibliothek Heidelberg : ",
+            "2024||||||||||",
+            "Reproduction. : s.l."
+          ],
+          "lds20": [
+            "Michelangelo (1899)"
+          ],
+          "lds34": [
+            "<a target=_blank href='https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-715153'>urn:nbn:de:bsz:16-diglit-715153</a>"
+          ],
+          "lds35": [
+            "<a target=_blank href='https://doi.org/10.11588/diglit.71515'>10.11588/diglit.71515</a>"
+          ],
+          "lds97": [
+            "(DE-588)118582143"
+          ],
+          "subject": [
+            "Michelangelo, Buonarroti, 1475-1564",
+            "Michelangelo Buonarroti 1475-1564"
+          ]
+        },
+        "control": {
+          "sourcerecordid": [
+            "990235370982009152"
+          ],
+          "recordid": [
+            "alma990235370982009152"
+          ],
+          "sourceid": "alma",
+          "originalsourceid": [
+            "023537098-KUB01"
+          ],
+          "sourcesystem": [
+            "BVB"
+          ],
+          "sourceformat": [
+            "MARC21"
+          ],
+          "score": [
+            "0.42859295"
+          ],
+          "isDedup": false
+        },
+        "addata": {
+          "originatingSystemIDAuthor": [
+            "118563599"
+          ],
+          "originatingSystemIDSubject": [
+            "118582143"
+          ],
+          "originatingSystemIDContributor": [
+            "118582143"
+          ],
+          "aulast": [
+            "Knackfuß"
+          ],
+          "aufirst": [
+            "Hermann"
+          ],
+          "auinit": [
+            "H"
+          ],
+          "au": [
+            "Knackfuß, Hermann"
+          ],
+          "addau": [
+            "Michelangelo"
+          ],
+          "creatorfull": [
+            "$$NKnackfuß, Hermann$$LKnackfuß$$FHermann$$Rauthor"
+          ],
+          "contributorfull": [
+            "$$NMichelangelo$$Rcontributor"
+          ],
+          "date": [
+            "1899"
+          ],
+          "cop": [
+            "Bielefeld ; Leipzig"
+          ],
+          "pub": [
+            "Verlag von Velhagen & Klasing"
+          ],
+          "oclcid": [
+            "(ocolc)1466934420"
+          ],
+          "doi": [
+            "10.11588/diglit.71515",
+            "urn:nbn:de:bsz:16-diglit-715153"
+          ],
+          "edition": [
+            "Fünfte Auflage"
+          ],
+          "seriestitle": [
+            "Künstler-Monographien 4"
+          ],
+          "format": [
+            "book"
+          ],
+          "genre": [
+            "book"
+          ],
+          "ristype": [
+            "BOOK"
+          ],
+          "btitle": [
+            "Michelangelo"
+          ],
+          "url": [
+            "https://doi.org/10.11588/diglit.71515"
+          ]
+        },
+        "sort": {
+          "title": [
+            "Michelangelo"
+          ],
+          "author": [
+            "Knackfuß, Hermann 1848-1915 Verfasser"
+          ],
+          "creationdate": [
+            "1899"
+          ]
+        },
+        "facets": {
+          "frbrtype": [
+            "6"
+          ]
+        }
+      },
+      "marc_xml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><searchRetrieveResponse xmlns=\"http://www.loc.gov/zing/srw/\">\n  <version>1.2</version>\n  <numberOfRecords>1</numberOfRecords>\n  <records>\n    <record>\n      <recordSchema>marcxml</recordSchema>\n      <recordPacking>xml</recordPacking>\n      <recordData>\n        <record xmlns=\"http://www.loc.gov/MARC21/slim\">\n          <leader>01989nam a2200493 cb4500</leader>\n          <controlfield tag=\"001\">990235370982009152</controlfield>\n          <controlfield tag=\"005\">00000000000000.0</controlfield>\n          <controlfield tag=\"007\">cr|uuu---uuuuu</controlfield>\n          <controlfield tag=\"008\">241018s1899    xx a||| o|||| 00||| ger d</controlfield>\n          <datafield ind1=\"7\" ind2=\" \" tag=\"024\">\n            <subfield code=\"a\">10.11588/diglit.71515</subfield>\n            <subfield code=\"2\">doi</subfield>\n          </datafield>\n          <datafield ind1=\"7\" ind2=\" \" tag=\"024\">\n            <subfield code=\"a\">urn:nbn:de:bsz:16-diglit-715153</subfield>\n            <subfield code=\"2\">urn</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"035\">\n            <subfield code=\"a\">BV049912695</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"035\">\n            <subfield code=\"a\">(OCoLC)1466934420</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"035\">\n            <subfield code=\"a\">(DE-599)KXP1904849520</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"035\">\n            <subfield code=\"a\">(DE-604)BV049912695</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"040\">\n            <subfield code=\"a\">DE-604</subfield>\n            <subfield code=\"b\">ger</subfield>\n            <subfield code=\"e\">rda</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"041\">\n            <subfield code=\"a\">ger</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"049\">\n            <subfield code=\"a\">DE-Y3</subfield>\n            <subfield code=\"a\">DE-255</subfield>\n            <subfield code=\"a\">DE-Y7</subfield>\n            <subfield code=\"a\">DE-Y2</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"084\">\n            <subfield code=\"a\">KUNST</subfield>\n            <subfield code=\"q\">DE-16</subfield>\n            <subfield code=\"2\">fid</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"084\">\n            <subfield code=\"a\">LI 59405</subfield>\n            <subfield code=\"0\">(DE-625)96649:13210</subfield>\n            <subfield code=\"2\">rvk</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\" \" tag=\"100\">\n            <subfield code=\"a\">Knackfuß, Hermann</subfield>\n            <subfield code=\"d\">1848-1915</subfield>\n            <subfield code=\"e\">Verfasser</subfield>\n            <subfield code=\"0\">(DE-588)118563599</subfield>\n            <subfield code=\"4\">aut</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\"0\" tag=\"240\">\n            <subfield code=\"a\">Michelangelo (1899)</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\"0\" tag=\"245\">\n            <subfield code=\"a\">Michelangelo</subfield>\n            <subfield code=\"c\">von H. Knackfuß</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"250\">\n            <subfield code=\"a\">Fünfte Auflage</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\"1\" tag=\"264\">\n            <subfield code=\"a\">Bielefeld ; Leipzig</subfield>\n            <subfield code=\"b\">Verlag von Velhagen &amp; Klasing</subfield>\n            <subfield code=\"c\">1899</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"300\">\n            <subfield code=\"a\">104 Seiten</subfield>\n            <subfield code=\"b\">Illustrationen</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"336\">\n            <subfield code=\"b\">txt</subfield>\n            <subfield code=\"2\">rdacontent</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"336\">\n            <subfield code=\"b\">sti</subfield>\n            <subfield code=\"2\">rdacontent</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"337\">\n            <subfield code=\"b\">c</subfield>\n            <subfield code=\"2\">rdamedia</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"338\">\n            <subfield code=\"b\">cr</subfield>\n            <subfield code=\"2\">rdacarrier</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\" \" tag=\"490\">\n            <subfield code=\"a\">Künstler-Monographien</subfield>\n            <subfield code=\"v\">4</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"533\">\n            <subfield code=\"a\">Online-Ausgabe</subfield>\n            <subfield code=\"b\">Heidelberg</subfield>\n            <subfield code=\"c\">Universitätsbibliothek Heidelberg</subfield>\n            <subfield code=\"d\">2024</subfield>\n            <subfield code=\"e\">1 Online-Ressource</subfield>\n            <subfield code=\"f\">Heidelberger historische Bestände - digital</subfield>\n            <subfield code=\"7\">|2024||||||||||</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"533\">\n            <subfield code=\"a\">Reproduction.</subfield>\n            <subfield code=\"b\">s.l.</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\" \" tag=\"535\">\n            <subfield code=\"a\">Universitätsbibliothek Heidelberg</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\" \" tag=\"583\">\n            <subfield code=\"a\">Archivierung/Langzeitarchivierung gewährleistet</subfield>\n            <subfield code=\"x\">XA-DE-BW</subfield>\n            <subfield code=\"2\">pdager</subfield>\n            <subfield code=\"5\">DE-16</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\" \" tag=\"583\">\n            <subfield code=\"a\">Archivierung/Langzeitarchivierung gewährleistet</subfield>\n            <subfield code=\"f\">FID</subfield>\n            <subfield code=\"x\">XA-DE-BW</subfield>\n            <subfield code=\"2\">pdager</subfield>\n            <subfield code=\"5\">DE-16</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"7\" tag=\"600\">\n            <subfield code=\"a\">Michelangelo</subfield>\n            <subfield code=\"c\">Buonarroti</subfield>\n            <subfield code=\"d\">1475-1564</subfield>\n            <subfield code=\"0\">(DE-588)118582143</subfield>\n            <subfield code=\"2\">gnd</subfield>\n            <subfield code=\"9\">rswk-swf</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\"0\" tag=\"689\">\n            <subfield code=\"a\">Michelangelo</subfield>\n            <subfield code=\"c\">Buonarroti</subfield>\n            <subfield code=\"d\">1475-1564</subfield>\n            <subfield code=\"0\">(DE-588)118582143</subfield>\n            <subfield code=\"D\">p</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\" \" tag=\"689\">\n            <subfield code=\"5\">(DE-627)</subfield>\n          </datafield>\n          <datafield ind1=\"0\" ind2=\" \" tag=\"700\">\n            <subfield code=\"a\">Michelangelo</subfield>\n            <subfield code=\"c\">Buonarroti</subfield>\n            <subfield code=\"d\">1475-1564</subfield>\n            <subfield code=\"0\">(DE-588)118582143</subfield>\n            <subfield code=\"4\">ill</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\"0\" tag=\"830\">\n            <subfield code=\"a\">Künstler-Monographien</subfield>\n            <subfield code=\"v\">4</subfield>\n            <subfield code=\"9\">4</subfield>\n          </datafield>\n          <datafield ind1=\"4\" ind2=\"0\" tag=\"856\">\n            <subfield code=\"u\">https://doi.org/10.11588/diglit.71515</subfield>\n            <subfield code=\"x\">Digitalisierung</subfield>\n            <subfield code=\"x\">Langzeitarchivierung</subfield>\n            <subfield code=\"x\">Resolving-System</subfield>\n            <subfield code=\"z\">kostenfrei</subfield>\n            <subfield code=\"3\">Volltext</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"912\">\n            <subfield code=\"a\">ebook</subfield>\n          </datafield>\n          <datafield ind1=\"1\" ind2=\" \" tag=\"940\">\n            <subfield code=\"q\">KUB_FID_KUNST</subfield>\n          </datafield>\n          <datafield ind1=\" \" ind2=\" \" tag=\"AVE\">\n            <subfield code=\"8\">53311781060009152</subfield>\n            <subfield code=\"c\">61336933420009152</subfield>\n            <subfield code=\"e\">Available</subfield>\n            <subfield code=\"m\">FID Kunst</subfield>\n            <subfield code=\"n\">kostenfrei</subfield>\n            <subfield code=\"a\">49MPG_KUBIKAT</subfield>\n            <subfield code=\"0\">990235370982009152</subfield>\n          </datafield>\n        </record>\n      </recordData>\n      <recordIdentifier>990235370982009152</recordIdentifier>\n      <recordPosition>1</recordPosition>\n    </record>\n  </records>\n  <extraResponseData xmlns:xb=\"http://www.exlibris.com/repository/search/xmlbeans/\">\n    <xb:exact>true</xb:exact>\n    <xb:responseDate>2026-10-23T03:29:45+0200</xb:responseDate>\n  </extraResponseData>\n</searchRetrieveResponse>",
+      "marc": {
+        "001": [
+          {
+            "_": "990235370982009152"
+          }
+        ],
+        "005": [
+          {
+            "_": "00000000000000.0"
+          }
+        ],
+        "007": [
+          {
+            "_": "cr|uuu---uuuuu"
+          }
+        ],
+        "008": [
+          {
+            "_": "241018s1899    xx a||| o|||| 00||| ger d"
+          }
+        ],
+        "024": [
+          {
+            "a": "10.11588/diglit.71515",
+            "2": "doi"
+          },
+          {
+            "a": "urn:nbn:de:bsz:16-diglit-715153",
+            "2": "urn"
+          }
+        ],
+        "035": [
+          {
+            "a": "BV049912695"
+          },
+          {
+            "a": "(OCoLC)1466934420"
+          },
+          {
+            "a": "(DE-599)KXP1904849520"
+          },
+          {
+            "a": "(DE-604)BV049912695"
+          }
+        ],
+        "040": [
+          {
+            "a": "DE-604",
+            "b": "ger",
+            "e": "rda"
+          }
+        ],
+        "041": [
+          {
+            "a": "ger"
+          }
+        ],
+        "049": [
+          {
+            "a": "DE-Y3"
+          }
+        ],
+        "084": [
+          {
+            "a": "KUNST",
+            "q": "DE-16",
+            "2": "fid"
+          },
+          {
+            "a": "LI 59405",
+            "0": "(DE-625)96649:13210",
+            "2": "rvk"
+          }
+        ],
+        "100": [
+          {
+            "a": "Knackfuß, Hermann",
+            "d": "1848-1915",
+            "e": "Verfasser",
+            "0": "(DE-588)118563599",
+            "4": "aut"
+          }
+        ],
+        "240": [
+          {
+            "a": "Michelangelo (1899)"
+          }
+        ],
+        "245": [
+          {
+            "a": "Michelangelo",
+            "c": "von H. Knackfuß"
+          }
+        ],
+        "250": [
+          {
+            "a": "Fünfte Auflage"
+          }
+        ],
+        "264": [
+          {
+            "a": "Bielefeld ; Leipzig",
+            "b": "Verlag von Velhagen & Klasing",
+            "c": "1899"
+          }
+        ],
+        "300": [
+          {
+            "a": "104 Seiten",
+            "b": "Illustrationen"
+          }
+        ],
+        "336": [
+          {
+            "b": "txt",
+            "2": "rdacontent"
+          },
+          {
+            "b": "sti",
+            "2": "rdacontent"
+          }
+        ],
+        "337": [
+          {
+            "b": "c",
+            "2": "rdamedia"
+          }
+        ],
+        "338": [
+          {
+            "b": "cr",
+            "2": "rdacarrier"
+          }
+        ],
+        "490": [
+          {
+            "a": "Künstler-Monographien",
+            "v": "4"
+          }
+        ],
+        "533": [
+          {
+            "a": "Online-Ausgabe",
+            "b": "Heidelberg",
+            "c": "Universitätsbibliothek Heidelberg",
+            "d": "2024",
+            "e": "1 Online-Ressource",
+            "f": "Heidelberger historische Bestände - digital",
+            "7": "|2024||||||||||"
+          },
+          {
+            "a": "Reproduction.",
+            "b": "s.l."
+          }
+        ],
+        "535": [
+          {
+            "a": "Universitätsbibliothek Heidelberg"
+          }
+        ],
+        "583": [
+          {
+            "a": "Archivierung/Langzeitarchivierung gewährleistet",
+            "x": "XA-DE-BW",
+            "2": "pdager",
+            "5": "DE-16"
+          },
+          {
+            "a": "Archivierung/Langzeitarchivierung gewährleistet",
+            "f": "FID",
+            "x": "XA-DE-BW",
+            "2": "pdager",
+            "5": "DE-16"
+          }
+        ],
+        "600": [
+          {
+            "a": "Michelangelo",
+            "c": "Buonarroti",
+            "d": "1475-1564",
+            "0": "(DE-588)118582143",
+            "2": "gnd",
+            "9": "rswk-swf"
+          }
+        ],
+        "689": [
+          {
+            "a": "Michelangelo",
+            "c": "Buonarroti",
+            "d": "1475-1564",
+            "0": "(DE-588)118582143",
+            "D": "p"
+          },
+          {
+            "5": "(DE-627)"
+          }
+        ],
+        "700": [
+          {
+            "a": "Michelangelo",
+            "c": "Buonarroti",
+            "d": "1475-1564",
+            "0": "(DE-588)118582143",
+            "4": "ill"
+          }
+        ],
+        "830": [
+          {
+            "a": "Künstler-Monographien",
+            "v": "4",
+            "9": "4"
+          }
+        ],
+        "856": [
+          {
+            "u": "https://doi.org/10.11588/diglit.71515",
+            "x": "Digitalisierung",
+            "z": "kostenfrei",
+            "3": "Volltext"
+          }
+        ],
+        "912": [
+          {
+            "a": "ebook"
+          }
+        ],
+        "940": [
+          {
+            "q": "KUB_FID_KUNST"
+          }
+        ],
+        "AVE": [
+          {
+            "8": "53311781060009152",
+            "c": "61336933420009152",
+            "e": "Available",
+            "m": "FID Kunst",
+            "n": "kostenfrei",
+            "a": "49MPG_KUBIKAT",
+            "0": "990235370982009152"
+          }
+        ]
+      }
+    }
+  ],
+  "parent": null
+}

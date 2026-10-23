@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Re-Kubikatia",
+  "version": "1.0.0",
+  "description": "SRU-only Kubikat importer with conservative rate limits for personal, non-commercial use.",
+  "author": "Re-Kubikatia",
+  "icons": {
+    "32": "content/icons/kubikat-32.png",
+    "48": "content/icons/kubikat-48.png",
+    "96": "content/icons/kubikat-96.png",
+    "256": "content/icons/kubikat-256.png"
+  },
+  "applications": {
+    "zotero": {
+      "id": "re-kubikatia@re-kubikatia.local",
+      "strict_min_version": "6.999",
+      "strict_max_version": "10.0.*"
+    }
+  }
+}

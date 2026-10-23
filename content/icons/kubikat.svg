@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="obelisk" data-name="obelisk" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="Gradient1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" style="stop-color:#d9b219;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d9b219;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="Gradient2" x1="1" x2="0" y1="1" y2="0">
+      <stop offset="0%" style="stop-color:#b19112;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fcce1d;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      <![CDATA[
+              #rect1 { fill: url(#Gradient2); }
+              .stop1 { stop-color: rgba(177,145,18,1.00);}
+              .stop2 { stop-color: rgba(217,178,25,0.00);}
+            ]]>
+      .gray {
+        fill: #b9b8ba;
+      }
+
+      .yellow-2 {
+        fill: #d9b219;
+      }
+
+      .yellow-3 {
+        fill: #b19112;
+      }
+
+
+    </style>
+  </defs>
+
+  <polygon class="yellow-3" points="
+    20 20
+    20 30
+    30 30 
+    30 20
+  "/>
+
+  <polygon fill="url(#Gradient2)" points="
+    30 30
+    30 50
+    50 50
+    50 30
+  "/>
+
+  <polygon fill="url(#Gradient1)" points="
+    30 20
+    50 30 
+    50 50
+    30 50 
+    20 30
+    30 30
+  "/>
+  
+
+</svg>
