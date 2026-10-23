@@ -1,6 +1,8 @@
 # Re-Kubikatia
 
-<img width="256" height="256" alt="kubikat-256" src="https://github.com/user-attachments/assets/d936de42-9f8c-400c-8932-1df48648c526" />
+
+<img width="256" height="256" alt="kubikat-256 png" src="https://github.com/user-attachments/assets/495b45f0-eaff-4214-85e2-f08a38d25c0f" />
+
 
 > **⚠️ 风险警示与免责声明**
 >
