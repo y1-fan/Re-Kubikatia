@@ -29,7 +29,7 @@ This repository is an iteration of [zotero-kubikat](https://github.com/y1-fan/zo
 
 The traditional workflow tried to export data to RIS and then import it into Zotero; in practice this caused serious mapping problems. RIS is a fairly simple, limited bibliographic exchange format, and it has clear shortcomings in this workflow.
 
-MARC is the machine-readable cataloging format widely used in libraries. It can express rich bibliographic fields and their semantic relationships. RIS, by contrast, focuses on generic exchange between bibliographic management systems. Kubikat's own MARC data is very rich, but its export system leaves much of that data unmapped to RIS, and maps much of what should be mapped incorrectly. Zotero's RIS support is also limited, resulting in a **double failure**.
+MARC is the machine-readable cataloging format widely used in libraries. It can express rich bibliographic fields and their semantic relationships. RIS, by contrast, focuses on generic exchange between bibliographic management systems. Kubikat's own MARC data is very rich, but its export system leaves much of that data unmapped to RIS, and maps much of what should be mapped incorrectly. Zotero's RIS support is also limited, resulting in a **twice failure**.
 
 Re-Kubikatia therefore skips the RIS intermediate step. As a Zotero plugin, it links MARC data directly to Zotero and preserves as much of the original record's richness and semantic structure as possible. Authors and editors are distinguished, document types can be identified more precisely, and information that cannot be mapped directly is kept in the Extra field or in notes.
 
