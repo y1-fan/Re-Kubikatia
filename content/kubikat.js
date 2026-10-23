@@ -156,7 +156,7 @@ var KubikatPlugin = class KubikatPlugin {
 		}
 		try {
 			if (win.MozXULElement && win.MozXULElement.insertFTLIfNeeded) {
-				win.MozXULElement.insertFTLIfNeeded("kubikat.ftl");
+				win.MozXULElement.insertFTLIfNeeded("rekubikatia.ftl");
 			}
 		}
 		catch (error) {
@@ -197,7 +197,7 @@ var KubikatPlugin = class KubikatPlugin {
 		this._dialog = win.openDialog(
 			"chrome://rekubikatia/content/dialog.xhtml",
 			"rekubikatia-import-dialog",
-			"chrome,centerscreen,resizable=yes,width=820,height=740",
+			"chrome,centerscreen,resizable=yes,width=900,height=840",
 			{ plugin: this },
 		);
 		const dialog = this._dialog;

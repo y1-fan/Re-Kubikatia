@@ -1955,20 +1955,24 @@ var Primo = (function () {
 		if (parts.pub_year) {
 			display.creationdate = [parts.pub_year];
 		}
-		if (parts.languages.length) {
-			display.language = parts.languages.slice();
+		const languages = asList(parts.languages);
+		const keywords = asList(parts.keywords);
+		const publishers = asList(parts.publishers);
+		const places = asList(parts.places);
+		if (languages.length) {
+			display.language = languages.slice();
 		}
-		if (parts.keywords.length) {
-			display.subject = parts.keywords.slice();
+		if (keywords.length) {
+			display.subject = keywords.slice();
 		}
 		if (parts.summary) {
 			display.description = [parts.summary];
 		}
-		if (parts.publishers.length) {
-			display.publisher = parts.publishers.slice();
+		if (publishers.length) {
+			display.publisher = publishers.slice();
 		}
-		if (parts.places.length) {
-			display.place = parts.places.slice();
+		if (places.length) {
+			display.place = places.slice();
 		}
 		if (parts.physical) {
 			display.format = [parts.physical];
@@ -1977,18 +1981,18 @@ var Primo = (function () {
 		if (parts.doi) {
 			addata.doi = [parts.doi];
 		}
-		if (parts.publishers.length) {
-			addata.pub = parts.publishers.slice();
+		if (publishers.length) {
+			addata.pub = publishers.slice();
 		}
-		if (parts.places.length) {
-			addata.cop = parts.places.slice();
+		if (places.length) {
+			addata.cop = places.slice();
 		}
 		if (parts.pub_year) {
 			addata.date = [parts.pub_year];
 		}
 		const parentIsbns = [];
 		const parentIssns = [];
-		for (const identifier of parts.identifiers) {
+		for (const identifier of asList(parts.identifiers)) {
 			if (identifierKey(identifier).length === 8) {
 				if (!parentIssns.includes(identifier)) {
 					parentIssns.push(identifier);
@@ -2162,10 +2166,17 @@ var Primo = (function () {
 					continue;
 				}
 				seen.add(item.docid);
+				let pnx;
+				try {
+					pnx = pnxFromMarc(item.marc, item.docid);
+				}
+				catch (error) {
+					throw new Error("Could not read MARC record " + item.docid + ": " + (error.message || error));
+				}
 				const record = {
 					docid: item.docid,
 					marc: item.marc,
-					pnx: pnxFromMarc(item.marc, item.docid),
+					pnx: pnx,
 				};
 				records.push(record);
 				newRecords.push(record);

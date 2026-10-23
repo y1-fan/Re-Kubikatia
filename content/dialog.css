@@ -9,6 +9,10 @@ body {
 	height: 100%;
 }
 
+[hidden] {
+	display: none !important;
+}
+
 body {
 	font: 13px/1.5 system-ui, -apple-system, "Segoe UI", "Noto Sans", sans-serif;
 	background: Canvas;
@@ -23,6 +27,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 12px;
+	overflow-y: auto;
 }
 
 header {

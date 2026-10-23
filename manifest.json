@@ -13,8 +13,9 @@
   "applications": {
     "zotero": {
       "id": "re-kubikatia@re-kubikatia.local",
+      "update_url": "https://example.invalid/re-kubikatia/updates.json",
       "strict_min_version": "6.999",
-      "strict_max_version": "10.0.*"
+      "strict_max_version": "10.*"
     }
   }
 }

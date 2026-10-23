@@ -209,7 +209,7 @@ Primo 的 `tab`、`search_scope`、`rtype`、`pfilter`、排序等参数不会�
 py -3 -m http.server 8898 --bind 127.0.0.1
 ```
 
-打开 <http://127.0.0.1:8898/tests/test.html>。当前 **25 项测试全部通过**，覆盖：
+打开 <http://127.0.0.1:8898/tests/test.html>。当前 **26 项测试全部通过**，覆盖：
 
 - 输入解析、CQL 生成、SRU 响应解析
 - MARC-only 记录建模、类型推导、773 卷期页
@@ -251,8 +251,8 @@ py -3 -m http.server 8898 --bind 127.0.0.1
 │   ├── dialog.css
 │   └── icons/
 ├── locale/
-│   ├── en-US/kubikat.ftl
-│   └── zh-CN/kubikat.ftl
+│   ├── en-US/rekubikatia.ftl
+│   └── zh-CN/rekubikatia.ftl
 ├── tests/                     浏览器测试与真实 SRU/MARC 夹具
 ├── build.py
 └── README.md

@@ -209,6 +209,12 @@
 		eq(Primo.typeFromMarc({ LDR: [{ _: "00000nam a2200000 a 4500" }], "773": [{ t: "Journal", x: "1234-5678" }] }), "article");
 	});
 
+	test("pnxFromMarc: an empty MARC record does not throw", function () {
+		const pnx = Primo.pnxFromMarc({}, "alma123");
+		eq(pnx.display.type[0], "other");
+		eq(pnx.display.mms[0], "123");
+	});
+
 	test("Mapper.buildItemPlan: fields, tags and note", function () {
 		const record = Primo.buildRecord(first.pnx, first.docid, {
 			marc: firstMarc,

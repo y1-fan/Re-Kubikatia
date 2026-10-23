@@ -47,8 +47,8 @@ def main() -> int:
         ROOT / "content" / "primo.js",
         ROOT / "content" / "mapper.js",
         ROOT / "content" / "kubikat.js",
-        ROOT / "locale" / "en-US" / "kubikat.ftl",
-        ROOT / "locale" / "zh-CN" / "kubikat.ftl",
+        ROOT / "locale" / "en-US" / "rekubikatia.ftl",
+        ROOT / "locale" / "zh-CN" / "rekubikatia.ftl",
     ]
     missing = [path for path in required if not path.is_file()]
     if missing:
