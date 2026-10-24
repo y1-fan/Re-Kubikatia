@@ -1,10 +1,14 @@
-# Re-Kubikatia
+<p align="center">
+  <img width="76" alt="kubikat png" src="https://github.com/user-attachments/assets/495b45f0-eaff-4214-85e2-f08a38d25c0f" />
+</p>
 
-**English** | [简体中文](README.zh-CN.md)
+<h1 align="center">Re-Kubikatia</h1>
 
+<p align="center">
+  <a href="README.zh-CN.md">中文</a> · <strong>English</strong>
+</p>
 
-<img width="256" height="256" alt="kubikat-256 png" src="https://github.com/user-attachments/assets/495b45f0-eaff-4214-85e2-f08a38d25c0f" />
-
+---
 
 > **⚠️ Warning and disclaimer**
 >
